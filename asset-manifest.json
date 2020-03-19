@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PavelZvonnikov/task/static/css/main.7377d747.chunk.css",
+    "main.js": "/PavelZvonnikov/task/static/js/main.b732bc62.chunk.js",
+    "main.js.map": "/PavelZvonnikov/task/static/js/main.b732bc62.chunk.js.map",
+    "runtime-main.js": "/PavelZvonnikov/task/static/js/runtime-main.c2772500.js",
+    "runtime-main.js.map": "/PavelZvonnikov/task/static/js/runtime-main.c2772500.js.map",
+    "static/js/2.ddd71a1e.chunk.js": "/PavelZvonnikov/task/static/js/2.ddd71a1e.chunk.js",
+    "static/js/2.ddd71a1e.chunk.js.map": "/PavelZvonnikov/task/static/js/2.ddd71a1e.chunk.js.map",
+    "index.html": "/PavelZvonnikov/task/index.html",
+    "precache-manifest.cf05a797800074ba3f73b46193f8d3d5.js": "/PavelZvonnikov/task/precache-manifest.cf05a797800074ba3f73b46193f8d3d5.js",
+    "service-worker.js": "/PavelZvonnikov/task/service-worker.js",
+    "static/css/main.7377d747.chunk.css.map": "/PavelZvonnikov/task/static/css/main.7377d747.chunk.css.map",
+    "static/js/2.ddd71a1e.chunk.js.LICENSE.txt": "/PavelZvonnikov/task/static/js/2.ddd71a1e.chunk.js.LICENSE.txt",
+    "static/media/cat1.jpg": "/PavelZvonnikov/task/static/media/cat1.009ada7c.jpg",
+    "static/media/cat2.jpg": "/PavelZvonnikov/task/static/media/cat2.cf268a00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2772500.js",
+    "static/js/2.ddd71a1e.chunk.js",
+    "static/css/main.7377d747.chunk.css",
+    "static/js/main.b732bc62.chunk.js"
+  ]
+}
