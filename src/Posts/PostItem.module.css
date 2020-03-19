@@ -95,15 +95,21 @@
   font: normal 12px "Muli", sans-serif;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 660px) and (max-width: 768px) {
   .post {
-    max-width: 625px;
+    width: 100%;
+    margin: 0 51px 35px 51px;
   }
+
   .post__rightSide,
   .post__leftSide {
     display: block;
     max-width: 326px;
     margin-bottom: -3px;
+  }
+
+  .post__rightSide {
+    width: 100%;
   }
 
   .post__headerWrapper {
