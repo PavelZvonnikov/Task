@@ -42,8 +42,13 @@
   width: 38px;
   height: 38px;
   margin-right: 12px;
-  background-color: black;
+  background-color: transparent;
   border-radius: 50%;
+  overflow: hidden;
+}
+
+.post__avatar_img {
+  width: 100%;
 }
 
 .post__username {
@@ -70,7 +75,6 @@
 }
 
 .post__footer {
-  width: 100%;
   margin: 0 10px 0 10px;
 }
 
@@ -92,10 +96,14 @@
 }
 
 @media screen and (max-width: 768px) {
+  .post {
+    max-width: 625px;
+  }
   .post__rightSide,
   .post__leftSide {
     display: block;
     max-width: 326px;
+    margin-bottom: -3px;
   }
 
   .post__headerWrapper {
